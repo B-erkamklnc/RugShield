@@ -1,0 +1,58 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^6.4.4",
+    "@mui/x-data-grid": "^7.26.0",
+    "@shadcn/ui": "^0.0.4",
+    "@tanstack/react-table": "^8.21.2",
+    "@types/node": "^15.14.9",
+    "@types/react": "^17.0.68",
+    "@types/react-dom": "^17.0.21",
+    "@types/react-router-dom": "^5.3.3",
+    "@types/styled-components": "^5.1.28",
+    "antd": "^4.24.14",
+    "ethers": "^6.13.5",
+    "i18next": "^19.9.2",
+    "i18next-browser-languagedetector": "^6.1.8",
+    "i18next-xhr-backend": "^3.2.2",
+    "react": "^18.2.0",
+    "react-awesome-reveal": "^3.8.1",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^11.18.6",
+    "react-router-dom": "^5.3.4",
+    "react-scripts": "5.0.1",
+    "react-table": "^7.8.0",
+    "styled-components": "^5.3.11",
+    "typescript": "^4.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-table": "^7.7.20",
+    "less": "^4.2.2",
+    "less-loader": "^12.2.0"
+  }
+}
